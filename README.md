@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,scikit-learn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,matlab,opencv,pytorch,redis,sklearn,tensorflow,unity,vscode,mysql)](https://skillicons.dev)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minokiti11&layout=compact&show_icons=true&theme=onedark" />
