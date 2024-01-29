@@ -10,8 +10,7 @@ Hi, I'm a Japanese high school engineer.
 </p>
 
 
-<!--
-**Minokiti11/Minokiti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minokiti11/Minokiti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: Mino
 - ⚡ Fun fact: ...
--->
