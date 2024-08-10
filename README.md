@@ -1,7 +1,7 @@
 Student of National Institute of Technology, Yonago College
 
 ## 🌱 My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,opencv,pytorch,redis,sklearn,tensorflow,unity,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,opencv,pytorch,redis,sklearn,unity,postgresql)](https://skillicons.dev)
 
 ## 📈 Status
 <p align="left"> 
