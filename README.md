@@ -1,5 +1,7 @@
 Student of National Institute of Technology, Yonago College
 
+![](https://komarev.com/ghpvc/?username=Minokiti11)
+
 ## 🌱 My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,opencv,pytorch,redis,sklearn,unity,postgresql)](https://skillicons.dev)
 
