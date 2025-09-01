@@ -4,7 +4,7 @@ Passionate about Sports×AI, AI×GroupDiscussion
 
 ![](https://komarev.com/ghpvc/?username=Minokiti11)
 
-## 🌱 My skills
+## 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,opencv,pytorch,redis,sklearn,unity,postgresql)](https://skillicons.dev)
 
 ## 📈 Status
