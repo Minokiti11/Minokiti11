@@ -2,7 +2,7 @@ Student of National Institute of Technology, Yonago College
 
 Passionate about Sports×AI, AI×GroupDiscussion
 
-![](https://komarev.com/ghpvc/?username=Minokiti11)
+[![Minori Sugimura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minokiti11)](https://github.com/Minokiti11/github-readme-stats)
 
 ## 🌱 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ruby,rails,jquery,nodejs,python,opencv,pytorch,redis,sklearn,unity,postgresql)](https://skillicons.dev)
