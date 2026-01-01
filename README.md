@@ -3,6 +3,7 @@ Student of National Institute of Technology, Yonago College
 Passionate about Sports×AI, AI×GroupDiscussion
 
 ![GitHub stats](https://github-readme-stats-seven-pi-72.vercel.app/api?username=Minokiti11&show_icons=true&theme=vue-dark)
+
 ![Top Langs](https://github-readme-stats-seven-pi-72.vercel.app/api/top-langs?username=Minokiti11&show_icons=true&layout=compact&theme=vue-dark)
 <!--Minokiti11/Minokiti11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
