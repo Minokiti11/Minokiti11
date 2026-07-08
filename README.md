@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Minokiti11)
 
-Student of National Institute of Technology, Yonago College
+University of Tsukuba
 
 Passionate about Sports×AI, AI×GroupDiscussion
 
