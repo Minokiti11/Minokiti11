@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Minokiti11)
 
-University of Tsukuba
+Student at University of Tsukuba
 
 Passionate about Sports×AI, AI×GroupDiscussion
 
